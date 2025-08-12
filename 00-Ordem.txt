@@ -1,0 +1,5 @@
+06  - Tirar dos arquivos o intervalo desejado, selecionando os parâmtros que devem ser incluídos
+04b - Agrupamento dos dados em um só arquivo, preenchendo os dados faltantes por meio repetição, quando nas extremidades, e média, quando no meio
+07d  - Normalização dos dados usando o mês treinado como referência
+07b  - Visualização dos dados (opcional) e normalização dos dados, gerando um arquivo com o resultado. Heatmap.
+07c  - Visualização dos dados (opcional)
